@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @orhantugrul
+- 👀 I’m interested in serverless things 
+- 🌱 I’m currently learning rust and python
+- 💞️ I’m looking to collaborate on rust things
+- 📫 How to reach me orhan.tugrul.61@gmail.com
