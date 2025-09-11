@@ -3,7 +3,7 @@ $ whoami
 > orhantugrul
 
 $ pwd
-> ~/istanbul
+> ~/turkey/istanbul
 
 $ cat about.txt
 > Software crafter
